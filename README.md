@@ -9,23 +9,23 @@ This repository defines identified deployment patterns for WSO2 API Manager and 
 #####Install docker
 
 Ubuntu
-```
+
 (https://docs.docker.com/engine/installation/linux/ubuntulinux/)
-```
+
 Mac OS X
-```
+
 (https://docs.docker.com/engine/installation/mac/)
-```
+
 Windows
-```
+
 (https://docs.docker.com/engine/installation/windows/)
-```
+
 
 #####Install Docker Compose
 
-```
+
 (https://docs.docker.com/compose/install/)
-```
+
 
 
 #### How to create WSO2 APIM docker image 
